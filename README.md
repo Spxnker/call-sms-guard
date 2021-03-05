@@ -13,7 +13,7 @@ Bide bu botu yaparken canım çıktı bi starlayın abiler
 
 <img src="https://media.giphy.com/media/au4q4eIW42qUrkFS4k/giphy.gif">
 
-Herhangi bir sorunda, soruda aşşağıdaki linklerden ulaşabilirsiniz.
+Herhangi bir sorunda, soruda aşşağıdaki Fotoğrafa tıklayarak bize ulaşabilirsiniz.
 
 <p align="center">
   <a href="https://discord.gg/BFqGR9aXjK"><img src="https://media.giphy.com/media/shF6QLTqWbyJHV0tpP/giphy.gif"></a>
