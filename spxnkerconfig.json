@@ -1,0 +1,58 @@
+{
+  "Temel Şeyler":{
+    
+  "prefix": ".",
+  "token": "",
+  "sahip": "",
+  "mongourl" : ""
+},
+
+"Kısa Yollar":{
+
+  "sunucuid": "",
+  "seskanalid" : "",
+  "botStatus": ""
+
+
+},
+
+"Kayıt Role İd":{
+
+"registerhammer" : "",
+"erkek1" : "",
+"erkek2" : "",
+"kadın1" : "",
+"kadın2" : "",
+"kayıtsız" : ""
+},
+
+"Diğer Role İd":{
+
+  "viprol" : "",
+  "boosterrol" : "",
+  "kayıtsıfırlamarolid" : "",
+  "familyrol" : ""
+
+},
+
+"Emojiler":{
+
+  "onayemoji" : "",
+  "redemoji" : ""
+
+},
+
+"Log Kanalları":{
+
+  "taglog" : ""
+
+},
+
+
+"Tag Vesayre":{
+
+  "taglıtag" : "",
+  "tagsıztag" : ""
+}
+
+}
