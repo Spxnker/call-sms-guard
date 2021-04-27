@@ -109,17 +109,6 @@ client.elevation = message => {
     if (message.author.id === spxnkerconfig.sahip) permlvl = 4;
     return permlvl;
 };
-//Fake giriş mesajı. Chate gir yazarsanız bir hesap giriş yapmış gibi olur. Farklı hesap sokmakla uğraşmazsınız!
-client.on("message", async message => {
-    if(!message.author.id == spxnkerconfig.sahip) return;
-    if (message.content === "gir") {
-        client.emit(
-            "guildMemberAdd",
-            message.member || (await message.guild.fetchMember(message.author))
-        );
-    }
-});
-
 
 
 
