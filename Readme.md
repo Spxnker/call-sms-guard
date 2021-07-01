@@ -1,5 +1,5 @@
 # Spanker Owner Guard Botu
-Selam, Ben Spanker. Bu botu 2 Ay Önce Kullanıyordum. Ve paylaşmaya karar verdim.
+Selam, Ben Spanker. Bu botu 2 Ay Önce Kullanıyordum. Paylaşmaya karar verdim. İyi kullanımlar.
 
 Bu bot discord için yazılmıştır. Diğer botlardan farkı owner guard özelliği olmasıdır.
 
