@@ -5,4 +5,4 @@ Owner Guard: 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geç
 
 50 Star Gelirse Backup Botu 'da Paylaşılacaktır.
 
-![Adsız](https://spanker.is-a.fail/53223vUQm)
+![Adsız](https://spanker.is-a.fail/53223vUQm.png)
