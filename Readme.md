@@ -19,4 +19,4 @@ Dosyaya Giriyoruz
 
 ![Adsız](https://spanker.is-a.fail/5329ShBwr.png) 
 
-Bu Dosyaları Dolduruyoruz
+Bu Dosyalardaki Herşeyi Eksiksiz Dolduruyoruz. ⚠️ Boş Bırakırsanız Hata Verecektir.
