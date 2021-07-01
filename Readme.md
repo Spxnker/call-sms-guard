@@ -1,4 +1,6 @@
 # Spanker Owner Guard Botu
+Selam, Ben Spanker. Bu botu 2 Ay Önce Kullanıyordum. Ve paylaşmaya karar verdim.
+
 Bu bot discord için yazılmıştır. Diğer botlardan farkı owner guard özelliği olmasıdır.
 
 Owner Guard: 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geçerlidir.
