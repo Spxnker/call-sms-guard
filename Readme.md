@@ -7,5 +7,16 @@ Owner Guard: 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geç
 
 ![Adsız](https://spanker.is-a.fail/5322S5ZmC.png)
 
-# Doldurmanız Gereken Yerler.
+# Kurulum:
 
+```sh
+npm install => Gerekli Bütün Modülleri Yükler.
+```
+
+![Adsız](https://spanker.is-a.fail/5329nFAre.png) 
+
+Dosyaya Giriyoruz
+
+![Adsız](https://spanker.is-a.fail/5329ShBwr.png) 
+
+Bu Dosyaları Dolduruyoruz
