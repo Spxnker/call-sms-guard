@@ -40,10 +40,13 @@ node spanker.js => Terminal Kısmına Yazılacaktır.
 ```
 # Dostlarım:
 
-Null 'un 800 Satırlık Guardı https://github.com/This-null/null-guard-bot İlginizi Çekebilir. 
+Null 'un 800 Satırlık Guardı https://github.com/This-null/null-guard-bot 
 
 Shinoa 'nın Guardı https://github.com/Britishkun/shinoa-guard
 
 Totika Hanımın Reaction Rol Botu https://github.com/Totikaxrd/reaction-Rolebot
 
+Alyenin Stat Botu https://github.com/AlyenJS/stats-v12
+
+Miafın Url Spammer Botu https://github.com/MiafJs/Discord.js-vanity-url-spammer
 
