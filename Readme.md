@@ -5,7 +5,7 @@ Bu bot discord için yazılmıştır. Diğer botlardan farkı **Owner Guard** ö
 
 Owner Guard: 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geçerlidir.
 
-50 Star Gelirse Backup Botu 'da Paylaşılacaktır.
++60 Star Gelirse Backup - Log Botuda Botu 'da Paylaşılacaktır.
 
 ![Adsız](https://spanker.is-a.fail/5322S5ZmC.png)
 
