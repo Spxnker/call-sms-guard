@@ -5,13 +5,18 @@ Bu bot discord için yazılmıştır. Diğer botlardan farkı **Owner Guard** ö
 
 Owner Guard: 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geçerlidir.
 
-+60 Star Gelirse Backup - Log Botuda Botu 'da Paylaşılacaktır.
++60 Star Gelirse Backup - Log - Sms Logger Botları 'da Paylaşılacaktır.
 
 **-Backup Botum 1943 - Shy - Eski Vienna Gibi Sunucularda Kullandığım Backup Botudur. 10 Rolü 5, 6 Botla 10 Dakika İçerisinde Dağıtır.**
 
 **-Log Botum Bütün Herşeyi Loglar, Rol Silme, Kanal açma, Silme, Emoji Oluştur Masına Kadar Loglayan Bir Bottur.**
 
+Sms Logger Botu Rol Silinince Telefonuna Sms Atıyor.
+
+![Adsız](https://cdn.discordapp.com/attachments/820956674487615499/860503363237576735/WhatsApp_Image_2021-06-07_at_16.30.30.jpeg)
+
 ![Adsız](https://spanker.is-a.fail/5322S5ZmC.png)
+
 
 # Kurulum:
 
