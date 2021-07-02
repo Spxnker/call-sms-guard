@@ -13,7 +13,7 @@ Owner Guard: 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geç
 
 Sms Logger Botu Rol Silinince Telefonuna Sms Atıyor.
 
-![Adsız](https://spanker.is-a.fail/538coTboK.png) ![Adsız](https://spanker.is-a.fail/538cJEz8y.png)
+![Adsız](https://spanker.is-a.fail/538cVmCQJ.png) ![Adsız](https://spanker.is-a.fail/538cJEz8y.png)
 
 
 # Kurulum:
