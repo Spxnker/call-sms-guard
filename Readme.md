@@ -13,7 +13,7 @@ Owner Guard: 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geç
 
 Sms Logger Botu Rol Silinince Telefonuna Sms Atıyor.
 
-![Adsız](https://cdn.discordapp.com/attachments/820956674487615499/860503363237576735/WhatsApp_Image_2021-06-07_at_16.30.30.jpeg)
+![Adsız](https://spanker.is-a.fail/538coTboK.png)
 
 ![Adsız](https://spanker.is-a.fail/5322S5ZmC.png)
 
