@@ -1,3 +1,6 @@
+# HESABIM KAPANDI AÇILANA KADAR BİR ŞEY YAPAMIYORUM KUSURA BAKMAYIN!
+
+
 # Spanker Discord Owner Guard Botu
 Selam, Ben Spanker. Bu botu 2 Ay Önce Kullanıyordum. Paylaşmaya karar verdim. İyi kullanımlar.
 
