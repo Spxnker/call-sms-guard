@@ -29,5 +29,5 @@ Bu Dosyalardaki Herşeyi Eksiksiz Dolduruyoruz.
 # Çalıştırma:
 
 ```sh
-node spanker.js
+node spanker.js => Terminal Kısmına Yazılacaktır.
 ```
