@@ -1,5 +1,5 @@
-# HESABIM KAPANDI AÇILANA KADAR BİR ŞEY YAPAMIYORUM KUSURA BAKMAYIN!
-
+# GİTHUB HESABIM KAPANDI AÇILANA KADAR BİR ŞEY YAPAMIYORUM KUSURA BAKMAYIN!
+# LÜTFEN ALTYAPIYI HIZLICA ALMAK İÇİN FAKE HESAP AÇIP STARLAMAYIN
 
 # Spanker Discord Owner Guard Botu
 Selam, Ben Spanker. Bu botu 2 Ay Önce Kullanıyordum. Paylaşmaya karar verdim. İyi kullanımlar.
