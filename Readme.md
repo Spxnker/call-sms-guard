@@ -24,3 +24,10 @@ Dosyaya Giriyoruz
 Bu Dosyalardaki Herşeyi Eksiksiz Dolduruyoruz. 
 
 ⚠️ Boş Bırakırsanız Hata Verecektir.
+
+
+# Çalıştırma:
+
+```sh
+node spanker.js
+```
