@@ -7,9 +7,9 @@ Owner Guard: 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geç
 
 +60 Star Gelirse Backup - Log Botuda Botu 'da Paylaşılacaktır.
 
-Backup Botum 1943 - Shy - Eski Vienna Gibi Sunucularda Kullandığım Backup Botudur. 10 Rolü 5, 6 Botla 10 Dakika İçerisinde Dağıtır.
+**-Backup Botum 1943 - Shy - Eski Vienna Gibi Sunucularda Kullandığım Backup Botudur. 10 Rolü 5, 6 Botla 10 Dakika İçerisinde Dağıtır.**
 
-Log Botum Bütün Herşeyi Loglar, Rol Silme, Kanal açma, Silme, Emoji Oluştur masına kadar Loglayan Bir Bottur.
+**-Log Botum Bütün Herşeyi Loglar, Rol Silme, Kanal açma, Silme, Emoji Oluştur masına kadar Loglayan Bir Bottur.**
 
 ![Adsız](https://spanker.is-a.fail/5322S5ZmC.png)
 
