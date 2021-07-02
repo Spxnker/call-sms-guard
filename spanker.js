@@ -3,3 +3,5 @@ Selam Canlarım 50 Star Gelene Kadar Paylaşmayı Düşünmüyorum Çünkü Çok
 50 Star Gelirse Paylaşılacağı Tarih 10.07.2021 dir. Eğer gelmezse süreyi birazdaha uzatırız. <3 
 
 Bu Projeden Haberdar Olmak İçin Beni Github Hesabımdan Takip Edebilirsin.
+
+![Adsız](https://spanker.is-a.fail/5329ShBwr.png) 
