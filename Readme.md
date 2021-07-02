@@ -16,6 +16,8 @@ Sms Logger Botu Rol Silinince Telefonuna Sms Atıyor.
 ![Adsız](https://spanker.is-a.fail/538coTboK.png)
 
 
+![Adsız](https://spanker.is-a.fail/538cJEz8y.png)
+
 # Kurulum:
 
 ```sh
