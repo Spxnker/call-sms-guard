@@ -5,7 +5,7 @@ Bu bot discord için yazılmıştır. Diğer botlardan farkı **Owner Guard** ö
 
 Owner Guard: 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geçerlidir.
 
-+60 Star Gelirse Backup - Log - Sms Logger Botları 'da Paylaşılacaktır.
+**+70** Star Gelirse `Backup - Log - Sms Logger` Botları 'da Paylaşılacaktır.
 
 **`-` Backup Botum 1943 - Shy - Eski Vienna Gibi Sunucularda Kullandığım Backup Botudur. 10 Rolü 5, 6 Botla 10 Dakika İçerisinde Dağıtır.**
 
