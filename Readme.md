@@ -1,9 +1,9 @@
 # Spanker Discord Owner Guard Botu
-*Selam, Ben Spanker. Bu botu 2 Ay Önce Kullanıyordum. Paylaşmaya karar verdim. İyi kullanımlar.*
+Selam, Ben Spanker. Bu botu 2 Ay Önce Kullanıyordum. Paylaşmaya karar verdim. İyi kullanımlar.
 
-*Bu bot discord için yazılmıştır. Diğer botlardan farkı **Owner Guard** özelliği olmasıdır.*
+Bu bot discord için yazılmıştır. Diğer botlardan farkı **Owner Guard** özelliği olmasıdır.
 
-*Owner Guard: 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geçerlidir.*
+Owner Guard: 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geçerlidir.
 
 ***+70** Star Gelirse `Backup - Log - Sms Logger` Botları 'da Paylaşılacaktır.*
 
