@@ -1,3 +1,6 @@
+#ALTYAPI NE ZAMAN PAYLASILCAK?
+Selam, şuan telefondan yazdığımı belirteyim. 70 star ve 30 fork olunca size projeyi sunacağım-
+demiştim fakat 30 fork olmadı starın yanındaki fork e basmanız yeterlidir. 
 
 # Spanker Discord Owner Guard Botu
 Selam, Ben Spanker. Bu botu 2 Ay Önce Kullanıyordum. Paylaşmaya karar verdim. İyi kullanımlar.
