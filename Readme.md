@@ -1,4 +1,4 @@
-#ALTYAPI NE ZAMAN PAYLASILCAK?
+# ALTYAPI NE ZAMAN PAYLASILCAK?
 Selam, şuan telefondan yazdığımı belirteyim. 70 star ve 30 fork olunca size projeyi sunacağım-
 demiştim fakat 30 fork olmadı starın yanındaki fork e basmanız yeterlidir. 
 
