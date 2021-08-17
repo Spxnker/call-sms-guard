@@ -24,7 +24,7 @@ mongoose.connect('url',
 // Mongo ne alaka diyenlere sesleniyorum;
 // Guardı Paylaştıktan Sonra Log Botunu Güncelleyeceğim İçin Kaldırmadım İsteğinize Bağlı Kaldırınız.
 
-
+// Hata Alırsanız Mongoyu Kaldırmanızı Öneriyorum.
     
 client.on("channelDelete", channel => {
     client.channels.cache.get(config.simple.kanallog)
