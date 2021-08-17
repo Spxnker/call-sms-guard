@@ -1,5 +1,5 @@
-# Altyapı Hazırlanıyor...
 
+# Discord Guard Bot
 
 Bu bot discord için yazılmıştır. Diğer botlardan farkı **Owner Guard** özelliği olmasıdır.
 
