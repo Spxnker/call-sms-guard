@@ -124,7 +124,7 @@ client.on("channelDelete", channel => {
 // Gibi yapabilirsiniz.
 
 
-  
+  // Güzel Günler de Kullanın.
 
 
 client.login(config.object.botToken)
