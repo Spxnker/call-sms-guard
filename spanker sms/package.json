@@ -1,0 +1,16 @@
+{
+  "name": "sms-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spank-me.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vonage/server-sdk": "^2.10.8",
+    "discord.js": "^12.5.3"
+  }
+}
