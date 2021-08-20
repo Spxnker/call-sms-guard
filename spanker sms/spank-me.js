@@ -1,7 +1,7 @@
 const Vonage = require('@vonage/server-sdk');
 
 // Çok istediğiniz Sms botunu paylaşıyorum.
-const { Bu, Bot, spanker, Tarafından, Yapılmıştır, } = require("discord.js")
+
 const Discord = require("discord.js") 
 const client = (global.client = new Discord.Client());
 const config = require('./config-client.json');
