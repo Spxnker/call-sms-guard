@@ -2,7 +2,7 @@
 
 **`-` Owner Guard botum 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geçerlidir.**
 
-![Adsız](https://user-images.githubusercontent.com/75320414/130317854-fe74ae90-22cc-49cb-8cf8-cd7d9cfd32cf.png.jpg)
+![Adsız](https://user-images.githubusercontent.com/75320414/130317854-fe74ae90-22cc-49cb-8cf8-cd7d9cfd32cf.png)
 
 **`-` Backup Botum 1943 - Shy - Eski Vienna Gibi Sunucularda Kullandığım Backup Botudur. 10 Rolü 5, 6 Botla 10 Dakika İçerisinde Dağıtır.**
 
