@@ -1,24 +1,21 @@
-# SMS VE LOG BOTU PAYLAŞILDI!!
-# SMS VE LOG BOTU PAYLAŞILDI!!
-# SMS VE LOG BOTU PAYLAŞILDI!!
-# SMS VE LOG BOTU PAYLAŞILDI!!
+# 4 Güvenlik Sistemi
 
-# Discord Guard Bot
-
-Bu bot discord için yazılmıştır. Diğer botlardan farkı **Owner Guard** özelliği olmasıdır.
-
-Owner Guard: 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geçerlidir.
+**`-` Owner Guard botum 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geçerlidir.**
+![Adsız](https://cdn.discordapp.com/attachments/876765025409318932/878573269270290483/wqrqas.jpg)
 
 **`-` Backup Botum 1943 - Shy - Eski Vienna Gibi Sunucularda Kullandığım Backup Botudur. 10 Rolü 5, 6 Botla 10 Dakika İçerisinde Dağıtır.**
+![Adsız](https://cdn.discordapp.com/attachments/876765025409318932/878573348169330688/gdsgsg.jpg)
 
 **`-` Log Botum Bütün Herşeyi Loglar, Rol Silme, Kanal açma, Silme, Emoji Oluştur Masına Kadar Loglayan Bir Bottur.**
+![Adsız](https://spanker.is-a.fail/f/57lXRLQZH.gif)
 
 **`-` Sms Logger Botu Rol Silinince Telefonuna Sms Atıyor.**
+![Adsız](https://spanker.is-a.fail/538cVmCQJ.png)
 
-![Adsız](https://spanker.is-a.fail/538cVmCQJ.png) ![Adsız](https://spanker.is-a.fail/538cJEz8y.png)
 
 
-# Kurulum:
+
+# Kurulum Guard:
 
 ```sh
 npm install => Gerekli Bütün Modülleri Yükler.
@@ -33,6 +30,40 @@ npm install => Gerekli Bütün Modülleri Yükler.
 `-` Bu Dosyalardaki Herşeyi Eksiksiz Dolduruyoruz. 
 
 `-` ⚠️ Boş Bırakırsanız Hata Verecektir.
+
+
+# Kurulum log:
+
+```sh
+npm install => Gerekli Bütün Modülleri Yükler.
+```
+
+![Adsız](https://spanker.is-a.fail/57JdmBosR.png) 
+
+`-` Dosyaya Giriyoruz
+
+![Adsız](https://spanker.is-a.fail/57Jddy4qd.png) 
+
+`-` Bu Dosyalardaki Herşeyi Eksiksiz Dolduruyoruz. 
+
+`-` ⚠️ Boş Bırakırsanız Hata Verecektir.
+
+# Kurulum Sms:
+
+```sh
+npm install => Gerekli Bütün Modülleri Yükler.
+```
+
+![Adsız](https://spanker.is-a.fail/57JdAaSwO.png) 
+
+`-` Dosyaya Giriyoruz
+
+![Adsız](https://spanker.is-a.fail/57JdFM7C8.png) 
+
+`-` Bu Dosyalardaki Herşeyi Eksiksiz Dolduruyoruz. 
+
+`-` ⚠️ Boş Bırakırsanız Hata Verecektir.
+
 
 
 # Çalıştırma:
