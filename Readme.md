@@ -2,11 +2,11 @@
 
 **`-` Owner Guard botum 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geçerlidir.**
 
-![Adsız](https://cdn.discordapp.com/attachments/876765025409318932/878573269270290483/wqrqas.jpg)
+![Adsız](https://user-images.githubusercontent.com/75320414/130317854-fe74ae90-22cc-49cb-8cf8-cd7d9cfd32cf.png.jpg)
 
 **`-` Backup Botum 1943 - Shy - Eski Vienna Gibi Sunucularda Kullandığım Backup Botudur. 10 Rolü 5, 6 Botla 10 Dakika İçerisinde Dağıtır.**
 
-![Adsız](https://cdn.discordapp.com/attachments/876765025409318932/878573348169330688/gdsgsg.jpg)
+![Adsız](https://user-images.githubusercontent.com/75320414/130317868-f2fd9b9f-0472-4207-8210-3979972fa631.png)
 
 **`-` Log Botum Bütün Herşeyi Loglar, Rol Silme, Kanal açma, Silme, Emoji Oluştur Masına Kadar Loglayan Bir Bottur.**
 
