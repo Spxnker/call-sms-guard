@@ -1,3 +1,5 @@
+# Yeni Bota Bakmaya Ne Dersin?
+
 https://github.com/Spxnker/discord-spanker-moderasyon-bot
 # Discord Sunucu Güvenlik Sistemi
 
