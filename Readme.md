@@ -1,3 +1,4 @@
+https://github.com/Spxnker/discord-spanker-moderasyon-bot
 # Discord Sunucu Güvenlik Sistemi
 
 Birbirin 'den güzel 4 tane **Güvenlik Sistemi** Sunuyorum.
