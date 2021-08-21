@@ -1,17 +1,21 @@
 # 4 Güvenlik Sistemi
 
+# 1. Güvenlik Sistemi
 **`-` Owner Guard botum 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geçerlidir.**
 
 ![Adsız](https://user-images.githubusercontent.com/75320414/130317854-fe74ae90-22cc-49cb-8cf8-cd7d9cfd32cf.png)
 
+# 2. Güvenlik Sistemi
 **`-` Backup Botum 1943 - Shy - Eski Vienna Gibi Sunucularda Kullandığım Backup Botudur. 10 Rolü 5, 6 Botla 10 Dakika İçerisinde Dağıtır.**
 
 ![Adsız](https://user-images.githubusercontent.com/75320414/130317868-f2fd9b9f-0472-4207-8210-3979972fa631.png)
 
+# 3. Güvenlik Sistemi
 **`-` Log Botum Bütün Herşeyi Loglar, Rol Silme, Kanal açma, Silme, Emoji Oluştur Masına Kadar Loglayan Bir Bottur.**
 
 ![Adsız](https://spanker.is-a.fail/f/57lXRLQZH.gif)
 
+# 4. Güvenlik Sistemi
 **`-` Sms Logger Botu Rol Silinince Telefonuna Sms Atıyor.**
 
 ![Adsız](https://spanker.is-a.fail/538cVmCQJ.png)
