@@ -1,4 +1,4 @@
-# 4 Güvenlik Sistemi
+# Discord Sunucu Güvenlik Sistemi
 
 Birbirin 'den güzel 4 tane **Güvenlik Sistemi** Sunuyorum.
 
