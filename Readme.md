@@ -1,5 +1,7 @@
 # 4 Güvenlik Sistemi
 
+Birbirin 'den güzel 4 tane **Güvenlik Sistemi** Sunuyorum.
+Umarım işinize yarar. [Herhangi Bir Sorunda Discord 'dan Ulaş Spanker#4872]
 # 1. Güvenlik Sistemi
 **`-` Owner Guard botum 30 Dakikada 3 Rol Silerse Ban Yer aynı şekilde Kanal içinde geçerlidir.**
 
