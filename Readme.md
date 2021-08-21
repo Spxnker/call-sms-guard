@@ -73,7 +73,7 @@ npm install => Gerekli Bütün Modülleri Yükler.
 # Çalıştırma:
 
 ```sh
-node spanker.js => Terminal Kısmına Yazılacaktır.
+node spank-me.js => Terminal Kısmına Yazılacaktır.
 ```
 # Dostlarım:
 
