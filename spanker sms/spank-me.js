@@ -20,8 +20,8 @@ client.on("ready", async () => {
 client.on('roleDelete', async role => {
   let entry = await role.guild.fetchAuditLogs({type: 'ROLE_DELETE'}).then(audit => audit.entries.first());
   let spankerLogMessaj = `${entry.exexecutor} ${entry.executor.id} Tarafından \n${role.name} ${role.id} Rolleri Silindi!` 
-  let burayısilmeyenadamdır = `Spanker Tarafından Geliştirildi.`
-  spankerApi.message.sendSms(config.simple.VirtualNumber, config.simple.PhoneNumber, spankerLogMessaj, burayısilmeyenadamdır, (err, responseData) => {
+  
+  spankerApi.message.sendSms(config.simple.VirtualNumber, config.simple.PhoneNumber, spankerLogMessaj, (err, responseData) => {
   if (err) { console.log(err);
     } else {
       if (responseData.messages[0]['status'] === "0") { console.log(`${config.simple.PhoneNumber} Numarasına Mesaj Başarıyla Gönderildi.`);
