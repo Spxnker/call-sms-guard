@@ -1,0 +1,23 @@
+{
+    "object": {
+"botToken": "BOT_TOKEN",
+"seschannelid": "SES_KANAL_İD",
+"guildid": "SUNUCU_İD"
+    },
+
+    "AdministratorRolePermissions": ["ADMINISTRATOR","KICK_MEMBERS","BAN_MEMBERS","MANAGE_CHANNELS","MANAGE_GUILD","VIEW_AUDIT_LOG","MENTION_EVERYONE","MANAGE_ROLES","MANAGE_WEBHOOKS","MANAGE_EMOJIS","VIEW_GUILD_INSIGHTS","MANAGE_NICKNAMES"],
+    "publicBotIDS": "MEE6_GİBİ_BOTLARIN_İD",
+    "botRole": "YT_Sİ_KAPANMICAK_ROL",
+    "whitelist": ["GÜVENLİ_İD", "", ""],
+    "presence": ["🐸","🦄","❄️"], 
+    "logs": "LOG_KANAL_İD",
+
+    "simple": {
+        "PhoneNumber": "Mesajın gideceği telefon numarası",
+        "NEXMO_API_KEY": "Dashboard'dan aldığın Api Key",
+        "NEXMO_API_SECRET": "Dashboard'dan aldığın Api Secret",
+        "VirtualNumber": "Dashboard'dan aldığın Telefon numarası."
+     }
+
+    }
+
