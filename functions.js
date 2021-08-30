@@ -1,5 +1,5 @@
 'use strict';
-// Spanker Shinoa 'dan Size..
+// Spanker ve Shinoa 'dan Size..
 const {Guild,GuildMember,User} = require('discord.js')
 const {botRole,publicBotIDS,AdministratorRolePermissions,whitelist} = require('./config-client.json')
 //Prototypes
