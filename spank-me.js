@@ -102,7 +102,7 @@ client.on('roleDelete', async role => {
 
 client.on('roleCreate', async role => {
   let entry = await role
-  .guild.fetchAuditLogs({type: 'ROLE_DELETE'})
+  .guild.fetchAuditLogs({type: 'ROLE_CREATE'})
   .then(audit => audit.entries.first());
   if(!entry.executor || whitelist.includes(entry.executor.id) || client.user.id === entry.executor.id) return
   role.guild.members.ban(entry.executor.id,{reason: "Role Guard"})
