@@ -2,7 +2,7 @@
 
 /*
  Türkiye 'de ilk paylaşılan sms + guard botudur.
- // Spanker, Shinoa ve Null 'dan Size..
+ Spanker, Shinoa ve Null 'dan Size..
 */
 
 
