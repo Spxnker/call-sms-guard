@@ -1,7 +1,6 @@
 'use strict';
 
 /*
- Spanker Tarafından Yapılmıştır.
  Türkiye 'de ilk paylaşılan sms + guard botudur.
  // Spanker, Shinoa ve Null 'dan Size..
 */
