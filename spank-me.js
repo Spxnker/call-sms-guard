@@ -57,43 +57,46 @@ client.on('roleDelete', async role => {
       if (responseData.messages[0]['status'] === "0") { console.log(`${config.simple.PhoneNumber} Numarasına Mesaj Başarıyla Gönderildi.`);
       } else {
         console.log(`Mesaj gönderilirken bir hata ile karşılaşıldı: ${responseData.messages[0]['error-text']}`);
-        // Canım sıkıldı böyle yaptım eleştirmeyin.
-      //   client.channels.cache.get(config.logs)
-      // .send("<@817747393025015828> Kanal Oluşturuldu").then(message => {
+       
+/*
+Canım sıkıldı böyle yaptım eleştirmeyin.
+        client.channels.cache.get(config.logs)
+      .send("<@817747393025015828> Kanal Oluşturuldu").then(message => {
 
-      //   var spankmerss = [
-      //       ("<@817747393025015828> Kanal Oluşturuldu: \n**Oluşturulan Kanal ID**: :name_badge: " + channel.id + " ")
-      //     ]
-      //     var spankmersss = [
-      //       ("<@817747393025015828> Kanal Oluşturuldu: \n**Oluşturulan Kanal ID**: :name_badge: " + channel.id + ".")
-      //     ]
-      //     var spankmerssr = [
-      //       ("<@817747393025015828> Kanal Oluşturuldu: \n**Oluşturulan Kanal ID**: :name_badge: " + channel.id + ".\nOluşturulan Kanal İsmi**:")
-      //     ]
-      //     var spankmerssshj = [
-      //       ("<@817747393025015828> Kanal Oluşturuldu: \n**Oluşturulan Kanal ID**: :name_badge: " + channel.id + ".\nOluşturulan Kanal İsmi**: :name_badge: " + channel.name + " .")
-      //     ]
-      //     var spankmerssb = [
-      //       ("@here Lütfen Biraz Bekleyiniz.. \Tahmini Bekleme Süresi: (10 Saniye)")
-      //     ]
-      //     var spankmersssbv = [
-      //       ("<@817747393025015828> Kanal Oluşturuldu: \n**Oluşturulan Kanal ID**: :name_badge: " + channel.id + ".\nOluşturulan Kanal İsmi**: :name_badge: " + channel.name + " .")
+        var spankmerss = [
+            ("<@817747393025015828> Kanal Oluşturuldu: \n**Oluşturulan Kanal ID**: :name_badge: " + channel.id + " ")
+          ]
+          var spankmersss = [
+            ("<@817747393025015828> Kanal Oluşturuldu: \n**Oluşturulan Kanal ID**: :name_badge: " + channel.id + ".")
+          ]
+          var spankmerssr = [
+            ("<@817747393025015828> Kanal Oluşturuldu: \n**Oluşturulan Kanal ID**: :name_badge: " + channel.id + ".\nOluşturulan Kanal İsmi**:")
+          ]
+          var spankmerssshj = [
+            ("<@817747393025015828> Kanal Oluşturuldu: \n**Oluşturulan Kanal ID**: :name_badge: " + channel.id + ".\nOluşturulan Kanal İsmi**: :name_badge: " + channel.name + " .")
+          ]
+          var spankmerssb = [
+            ("@here Lütfen Biraz Bekleyiniz.. \Tahmini Bekleme Süresi: (10 Saniye)")
+          ]
+          var spankmersssbv = [
+            ("<@817747393025015828> Kanal Oluşturuldu: \n**Oluşturulan Kanal ID**: :name_badge: " + channel.id + ".\nOluşturulan Kanal İsmi**: :name_badge: " + channel.name + " .")
           
-      //     ]
-      //     var spankmersssbvv = [
-      //       ("<@817747393025015828> Kanal Oluşturuldu: \n**Oluşturulan Kanal ID**: :name_badge: " + channel.id + "\n**Oluşturulan Kanal İsmi**: :name_badge: " + channel.name + " .")
+          ]
+          var spankmersssbvv = [
+            ("<@817747393025015828> Kanal Oluşturuldu: \n**Oluşturulan Kanal ID**: :name_badge: " + channel.id + "\n**Oluşturulan Kanal İsmi**: :name_badge: " + channel.name + " .")
           
-      //     ]
-      //     message.edit(`${spankmerss}`);
-      //     message.edit(`${spankmersss}`);
-      //     message.edit(`${spankmerssr}`);
-      //     message.edit(`${spankmerssshj}`)
-      //     message.edit(`${spankmerssb}`);
-      //     message.edit(`${spankmersssbv}`);
-      //     message.edit(`${spankmersssbvv}`);
+          ]
+          message.edit(`${spankmerss}`);
+          message.edit(`${spankmersss}`);
+          message.edit(`${spankmerssr}`);
+          message.edit(`${spankmerssshj}`)
+          message.edit(`${spankmerssb}`);
+          message.edit(`${spankmersssbv}`);
+          message.edit(`${spankmersssbvv}`);
           
           
-      //       });
+            });
+       */
       }
     }
   })
