@@ -344,12 +344,13 @@ client.on('roleDelete', async role => {
 );
 
 client.on('channelDelete', async channel => {
+  let kanalsildipic = client.channels.cache.get(config.logs);
   let entry = await channel
   .guild.fetchAuditLogs({type: 'CHANNEL_DELETE'})
   .then(audit => audit.entries.first());
   let embed = new MessageEmbed()
-  let kanalsildipic = client.channels.cache.get(config.logs);
-  if (kanalsildipic) { kanalsildipic.send(new MessageEmbed()
+  if (kanalsildipic) { 
+   kanalsildipic.send(new MessageEmbed()
   .setColor("RED")
   .setTitle('Bir Rol Silindi! Rolün Özellikleri:')
   .setDescription(`> ❯ Rolün İdsi: \`${channel.id}\`
